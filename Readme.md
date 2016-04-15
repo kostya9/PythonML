@@ -1,0 +1,2 @@
+# In Octave\ you can find my impleentation of tasks provided my Andrew NG Coursera Machine learning Coursera
+# In OctaveToPython\ I tried to have the same results using only Python and Anaconda package(scikit-learn, numpy, pandas)
